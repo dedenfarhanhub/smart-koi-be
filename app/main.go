@@ -6,7 +6,6 @@ import (
 	"github.com/dedenfarhanhub/smart-koi-be/helper/logging"
 	"github.com/labstack/echo/v4"
 	"log"
-	"os"
 	"time"
 
 	_middleware "github.com/dedenfarhanhub/smart-koi-be/app/middleware"
@@ -75,7 +74,7 @@ func main()  {
 	}
 	routesInit.RouteRegister(e)
 
-	port := os.Getenv("PORT")
+	port := configApp.Server.Port
 	if port == "" {
 		port = "8000"
 	}
