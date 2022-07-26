@@ -146,10 +146,6 @@ func (u UserUseCase) Update(ctx context.Context, data *Domain, id int) (Domain, 
 		return Domain{}, business.ErrNotFound
 	}
 
-	if exitedUser.Role == "ADMIN" {
-		return Domain{}, business.ErrRequestNotValid
-	}
-
 	if data.Password != "" {
 		data.Password, _ = encrypt.Hash(data.Password)
 	}
