@@ -1,0 +1,601 @@
+definitions:
+  request.CalculateProduction:
+    properties:
+      market_demand:
+        type: integer
+      stock:
+        type: integer
+    type: object
+  request.HistoryProduction:
+    properties:
+      market_demand:
+        type: integer
+      period_date:
+        type: string
+      production:
+        type: integer
+      stock:
+        type: integer
+    type: object
+  request.LoginRequest:
+    properties:
+      password:
+        type: string
+      username:
+        type: string
+    type: object
+  request.UpdateHistoryProduction:
+    properties:
+      id:
+        type: integer
+      market_demand:
+        type: integer
+      period_date:
+        type: string
+      production:
+        type: integer
+      stock:
+        type: integer
+    type: object
+  request.UpdateProfile:
+    properties:
+      name:
+        type: string
+      password:
+        type: string
+      phone_number:
+        type: string
+    type: object
+  request.UpdateUsers:
+    properties:
+      id:
+        type: integer
+      name:
+        type: string
+      password:
+        type: string
+      phone_number:
+        type: string
+      role:
+        type: string
+    type: object
+  request.Users:
+    properties:
+      name:
+        type: string
+      password:
+        type: string
+      phone_number:
+        type: string
+      role:
+        type: string
+      username:
+        type: string
+    type: object
+  response.CalculateProductions:
+    properties:
+      id:
+        type: integer
+      latest_history_production:
+        $ref: '#/definitions/response.HistoryProductions'
+      market_demand:
+        type: integer
+      percentage_calculation:
+        $ref: '#/definitions/response.PercentageCalculation'
+      production:
+        type: integer
+      stock:
+        type: integer
+      user_id:
+        type: integer
+    type: object
+  response.HistoryProductionStats:
+    properties:
+      max_market_demand:
+        type: integer
+      max_production:
+        type: integer
+      max_stock:
+        type: integer
+      min_market_demand:
+        type: integer
+      min_production:
+        type: integer
+      min_stock:
+        type: integer
+    type: object
+  response.HistoryProductions:
+    properties:
+      id:
+        type: integer
+      market_demand:
+        type: integer
+      period_date:
+        type: string
+      production:
+        type: integer
+      stock:
+        type: integer
+      user_id:
+        type: integer
+    type: object
+  response.LoginResponse:
+    properties:
+      token:
+        type: string
+    type: object
+  response.PercentageCalculation:
+    properties:
+      percentage:
+        type: number
+      type:
+        type: string
+    type: object
+  response.Profile:
+    properties:
+      id:
+        type: integer
+      name:
+        type: string
+      phone_number:
+        type: string
+      role:
+        type: string
+      username:
+        type: string
+    type: object
+  response.Users:
+    properties:
+      id:
+        type: integer
+      name:
+        type: string
+      phone_number:
+        type: string
+      role:
+        type: string
+      username:
+        type: string
+    type: object
+info:
+  contact: {}
+paths:
+  /auth/login:
+    post:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: LoginRequest
+        in: body
+        name: LoginRequest
+        required: true
+        schema:
+          $ref: '#/definitions/request.LoginRequest'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.LoginResponse'
+      summary: Login
+      tags:
+      - auths-controller
+  /calculate-productions:
+    post:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: Bearer
+        in: header
+        name: Authorization
+        required: true
+        type: string
+      - description: CalculateProduction
+        in: body
+        name: CalculateProduction
+        required: true
+        schema:
+          $ref: '#/definitions/request.CalculateProduction'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.CalculateProductions'
+      summary: Store
+      tags:
+      - calculate-productions-controller
+  /history-productions:
+    get:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: Bearer
+        in: header
+        name: Authorization
+        required: true
+        type: string
+      - description: start date
+        in: query
+        name: start_date
+        type: string
+      - description: end date
+        in: query
+        name: end_date
+        type: string
+      - description: limit
+        in: query
+        name: limit
+        required: true
+        type: string
+      - description: page
+        in: query
+        name: page
+        required: true
+        type: string
+      - description: sort
+        in: query
+        name: sort
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.HistoryProductions'
+      summary: Fetch
+      tags:
+      - history-productions-controller
+    post:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: Bearer
+        in: header
+        name: Authorization
+        required: true
+        type: string
+      - description: HistoryProduction
+        in: body
+        name: HistoryProduction
+        required: true
+        schema:
+          $ref: '#/definitions/request.HistoryProduction'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.HistoryProductions'
+      summary: Store
+      tags:
+      - history-productions-controller
+  /history-productions/{id}:
+    delete:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: Bearer
+        in: header
+        name: Authorization
+        required: true
+        type: string
+      - description: historyProduction id
+        in: path
+        name: id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.HistoryProductions'
+      summary: Destroy
+      tags:
+      - history-productions-controller
+    get:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: Bearer
+        in: header
+        name: Authorization
+        required: true
+        type: string
+      - description: historyProduction id
+        in: path
+        name: id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.HistoryProductions'
+      summary: FindById
+      tags:
+      - history-productions-controller
+    put:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: Bearer
+        in: header
+        name: Authorization
+        required: true
+        type: string
+      - description: UpdateHistoryProduction
+        in: body
+        name: UpdateHistoryProduction
+        required: true
+        schema:
+          $ref: '#/definitions/request.UpdateHistoryProduction'
+      - description: user id
+        in: path
+        name: id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.HistoryProductions'
+      summary: Update
+      tags:
+      - history-productions-controller
+  /history-productions/barchart:
+    get:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: Bearer
+        in: header
+        name: Authorization
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.HistoryProductions'
+      summary: Barchart
+      tags:
+      - history-productions-controller
+  /history-productions/stat:
+    get:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: Bearer
+        in: header
+        name: Authorization
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.HistoryProductionStats'
+      summary: Stat
+      tags:
+      - history-productions-controller
+  /profile:
+    get:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: Bearer
+        in: header
+        name: Authorization
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.Profile'
+      summary: Profile
+      tags:
+      - profile-controller
+    put:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: Bearer
+        in: header
+        name: Authorization
+        required: true
+        type: string
+      - description: UpdateProfile
+        in: body
+        name: UpdateProfile
+        required: true
+        schema:
+          $ref: '#/definitions/request.UpdateProfile'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.Profile'
+      summary: Update
+      tags:
+      - profile-controller
+  /users:
+    get:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: Bearer
+        in: header
+        name: Authorization
+        required: true
+        type: string
+      - description: keyword
+        in: query
+        name: keyword
+        type: string
+      - description: limit
+        in: query
+        name: limit
+        required: true
+        type: string
+      - description: page
+        in: query
+        name: page
+        required: true
+        type: string
+      - description: sort
+        in: query
+        name: sort
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.Users'
+      summary: Fetch
+      tags:
+      - users-controller
+    post:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: Bearer
+        in: header
+        name: Authorization
+        required: true
+        type: string
+      - description: UserRequest
+        in: body
+        name: UserRequest
+        required: true
+        schema:
+          $ref: '#/definitions/request.Users'
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.Users'
+      summary: Store
+      tags:
+      - users-controller
+  /users/{id}:
+    delete:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: Bearer
+        in: header
+        name: Authorization
+        required: true
+        type: string
+      - description: user id
+        in: path
+        name: id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.Users'
+      summary: Destroy
+      tags:
+      - users-controller
+    get:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: Bearer
+        in: header
+        name: Authorization
+        required: true
+        type: string
+      - description: user id
+        in: path
+        name: id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.Users'
+      summary: FindById
+      tags:
+      - users-controller
+    put:
+      consumes:
+      - application/json
+      description: Put all mandatory parameter
+      parameters:
+      - description: Bearer
+        in: header
+        name: Authorization
+        required: true
+        type: string
+      - description: UpdateUsers
+        in: body
+        name: UpdateUsers
+        required: true
+        schema:
+          $ref: '#/definitions/request.UpdateUsers'
+      - description: user id
+        in: path
+        name: id
+        required: true
+        type: string
+      produces:
+      - application/json
+      responses:
+        "200":
+          description: OK
+          schema:
+            $ref: '#/definitions/response.Users'
+      summary: Update
+      tags:
+      - users-controller
+swagger: "2.0"

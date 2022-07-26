@@ -1,0 +1,838 @@
+{"at":"2022-07-20 23:58:31","ip":"[::1]:36444","level":"info","method":"GET","msg":"incoming request","time":"2022-07-20T23:58:31+07:00","uri":"/"}
+{"at":"2022-07-20 23:58:31","ip":"[::1]:36444","level":"info","method":"GET","msg":"incoming request","time":"2022-07-20T23:58:31+07:00","uri":"/favicon.ico"}
+{"at":"2022-07-20 23:58:53","ip":"[::1]:36444","level":"info","method":"GET","msg":"incoming request","time":"2022-07-20T23:58:53+07:00","uri":"/users/login"}
+{"at":"2022-07-21 09:59:43","ip":"[::1]:51844","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T09:59:43+07:00","uri":"/"}
+{"at":"2022-07-21 09:59:43","ip":"[::1]:51844","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T09:59:43+07:00","uri":"/favicon.ico"}
+{"at":"2022-07-21 09:59:56","ip":"[::1]:51844","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T09:59:56+07:00","uri":"/swagger"}
+{"at":"2022-07-21 10:00:00","ip":"[::1]:51844","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:00:00+07:00","uri":"/swagger/*"}
+{"at":"2022-07-21 10:00:03","ip":"[::1]:51844","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:00:03+07:00","uri":"/swagger/a"}
+{"at":"2022-07-21 10:00:24","ip":"[::1]:51844","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:00:24+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-21 10:00:24","ip":"[::1]:51844","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:00:24+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-21 10:00:24","ip":"[::1]:51846","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:00:24+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-21 10:00:24","ip":"[::1]:51848","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:00:24+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-21 10:00:24","ip":"[::1]:51846","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:00:24+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-21 10:00:24","ip":"[::1]:51846","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:00:24+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-21 10:01:32","ip":"[::1]:51846","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:01:32+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-21 10:01:33","ip":"[::1]:51846","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:01:33+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-21 10:01:33","ip":"[::1]:51846","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:01:33+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-21 10:04:07","ip":"[::1]:51846","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:04:07+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-21 10:04:07","ip":"[::1]:51846","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:04:07+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-21 10:10:03","ip":"[::1]:51850","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:10:03+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-21 10:10:03","ip":"[::1]:51850","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:10:03+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-21 10:10:03","ip":"[::1]:51852","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:10:03+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-21 10:10:03","ip":"[::1]:51854","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:10:03+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-21 10:10:03","ip":"[::1]:51852","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:10:03+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-21 10:10:03","ip":"[::1]:51852","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:10:03+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-21 10:10:16","ip":"[::1]:51852","level":"info","method":"POST","msg":"incoming request","time":"2022-07-21T10:10:16+07:00","uri":"/users/login"}
+{"at":"2022-07-21 10:47:09","ip":"[::1]:51856","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:47:09+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-21 10:47:09","ip":"[::1]:51856","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:47:09+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-21 10:47:09","ip":"[::1]:51858","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:47:09+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-21 10:47:09","ip":"[::1]:51860","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:47:09+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-21 10:47:09","ip":"[::1]:51858","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:47:09+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-21 10:47:09","ip":"[::1]:51858","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:47:09+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-21 10:47:50","ip":"[::1]:51858","level":"info","method":"POST","msg":"incoming request","time":"2022-07-21T10:47:50+07:00","uri":"/users"}
+{"at":"2022-07-21 10:47:50","level":"info","msg":"incoming request","request":{"email":"petugas@mailinator.com","name":"Petugas"},"response":{"success":"true"},"time":"2022-07-21T10:47:50+07:00"}
+{"at":"2022-07-21 10:48:21","ip":"[::1]:51858","level":"info","method":"POST","msg":"incoming request","time":"2022-07-21T10:48:21+07:00","uri":"/auth/login"}
+{"at":"2022-07-21 10:48:21","level":"info","msg":"incoming request","request":{"email":"petugas@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-21T10:48:21+07:00"}
+{"at":"2022-07-21 10:51:33","ip":"[::1]:51862","level":"info","method":"POST","msg":"incoming request","time":"2022-07-21T10:51:33+07:00","uri":"/users"}
+{"at":"2022-07-21 10:51:33","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","name":"Admin"},"response":{"success":"true"},"time":"2022-07-21T10:51:33+07:00"}
+{"at":"2022-07-21 10:52:48","ip":"[::1]:51864","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:52:48+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-21 10:52:48","ip":"[::1]:51864","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:52:48+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-21 10:52:48","ip":"[::1]:51866","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:52:48+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-21 10:52:48","ip":"[::1]:51868","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:52:48+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-21 10:52:48","ip":"[::1]:51866","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:52:48+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-21 10:52:48","ip":"[::1]:51866","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:52:48+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-21 10:52:55","ip":"[::1]:51866","level":"info","method":"POST","msg":"incoming request","time":"2022-07-21T10:52:55+07:00","uri":"/users"}
+{"at":"2022-07-21 10:57:02","ip":"[::1]:51872","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:57:02+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-21 10:57:02","ip":"[::1]:51872","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:57:02+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-21 10:57:02","ip":"[::1]:51874","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:57:02+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-21 10:57:02","ip":"[::1]:51876","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:57:02+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-21 10:57:02","ip":"[::1]:51874","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:57:02+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-21 10:57:02","ip":"[::1]:51874","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T10:57:02+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-21 10:57:22","ip":"[::1]:51874","level":"info","method":"POST","msg":"incoming request","time":"2022-07-21T10:57:22+07:00","uri":"/auth/login"}
+{"at":"2022-07-21 10:57:22","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-21T10:57:22+07:00"}
+{"at":"2022-07-21 10:57:36","ip":"[::1]:51874","level":"info","method":"POST","msg":"incoming request","time":"2022-07-21T10:57:36+07:00","uri":"/users"}
+{"at":"2022-07-21 11:00:03","ip":"[::1]:51878","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T11:00:03+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-21 11:00:03","ip":"[::1]:51878","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T11:00:03+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-21 11:00:03","ip":"[::1]:51880","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T11:00:03+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-21 11:00:03","ip":"[::1]:51884","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T11:00:03+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-21 11:00:03","ip":"[::1]:51880","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T11:00:03+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-21 11:00:03","ip":"[::1]:51880","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T11:00:03+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-21 11:00:10","ip":"[::1]:51880","level":"info","method":"POST","msg":"incoming request","time":"2022-07-21T11:00:10+07:00","uri":"/users"}
+{"at":"2022-07-21 11:03:43","ip":"[::1]:51886","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T11:03:43+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-21 11:03:43","ip":"[::1]:51886","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T11:03:43+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-21 11:03:43","ip":"[::1]:51888","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T11:03:43+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-21 11:03:43","ip":"[::1]:51890","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T11:03:43+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-21 11:03:43","ip":"[::1]:51888","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T11:03:43+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-21 11:03:43","ip":"[::1]:51890","level":"info","method":"GET","msg":"incoming request","time":"2022-07-21T11:03:43+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-21 11:03:53","ip":"[::1]:51890","level":"info","method":"POST","msg":"incoming request","time":"2022-07-21T11:03:53+07:00","uri":"/users"}
+{"at":"2022-07-21 11:05:04","ip":"[::1]:51890","level":"info","method":"POST","msg":"incoming request","time":"2022-07-21T11:05:04+07:00","uri":"/users"}
+{"at":"2022-07-21 11:05:32","ip":"[::1]:51890","level":"info","method":"POST","msg":"incoming request","time":"2022-07-21T11:05:32+07:00","uri":"/auth/login"}
+{"at":"2022-07-21 11:05:32","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-21T11:05:32+07:00"}
+{"at":"2022-07-21 11:05:43","ip":"[::1]:51890","level":"info","method":"POST","msg":"incoming request","time":"2022-07-21T11:05:43+07:00","uri":"/users"}
+{"at":"2022-07-21 11:05:43","level":"info","msg":"incoming request","request":{"email":"string","name":"string"},"response":{"success":"true"},"time":"2022-07-21T11:05:43+07:00"}
+{"at":"2022-07-21 11:07:51","ip":"[::1]:51890","level":"info","method":"POST","msg":"incoming request","time":"2022-07-21T11:07:51+07:00","uri":"/users"}
+{"at":"2022-07-24 16:07:02","ip":"[::1]:58274","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:07:02+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-24 16:07:02","ip":"[::1]:58274","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:07:02+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-24 16:07:02","ip":"[::1]:58276","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:07:02+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-24 16:07:02","ip":"[::1]:58278","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:07:02+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-24 16:07:02","ip":"[::1]:58276","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:07:02+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-24 16:07:44","ip":"[::1]:58280","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:07:44+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-24 16:07:44","ip":"[::1]:58280","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:07:44+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-24 16:07:44","ip":"[::1]:58284","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:07:44+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-24 16:07:44","ip":"[::1]:58282","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:07:44+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-24 16:07:44","ip":"[::1]:58282","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:07:44+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-24 16:07:44","ip":"[::1]:58282","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:07:44+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-24 16:08:21","ip":"[::1]:58282","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T16:08:21+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 16:08:21","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T16:08:21+07:00"}
+{"at":"2022-07-24 16:09:08","ip":"[::1]:58282","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:09:08+07:00","uri":"/users?limit=10\u0026page=1\u0026sort=1"}
+{"at":"2022-07-24 16:09:08","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T16:09:08+07:00"}
+{"at":"2022-07-24 16:11:34","ip":"[::1]:58286","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:11:34+07:00","uri":"/users?limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 16:11:34","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T16:11:34+07:00"}
+{"at":"2022-07-24 16:21:15","ip":"[::1]:58292","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:21:15+07:00","uri":"/users?limit=10\u0026page=12\u0026sort=id%20desc"}
+{"at":"2022-07-24 16:21:15","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T16:21:15+07:00"}
+{"at":"2022-07-24 16:23:03","ip":"[::1]:58294","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:23:03+07:00","uri":"/users?keyword=admin\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 16:23:03","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T16:23:03+07:00"}
+{"at":"2022-07-24 16:23:25","ip":"[::1]:58296","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:23:25+07:00","uri":"/users?keyword=admin\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 16:23:25","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T16:23:25+07:00"}
+{"at":"2022-07-24 16:23:40","ip":"[::1]:58296","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:23:40+07:00","uri":"/users?keyword=admin\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 16:23:40","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T16:23:40+07:00"}
+{"at":"2022-07-24 16:24:10","ip":"[::1]:58298","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T16:24:10+07:00","uri":"/users?keyword=admin\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 16:24:10","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T16:24:10+07:00"}
+{"at":"2022-07-24 16:31:27","ip":"[::1]:58300","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T16:31:27+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 16:31:27","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T16:31:27+07:00"}
+{"at":"2022-07-24 18:02:14","ip":"[::1]:58302","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:02:14+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-24 18:02:14","ip":"[::1]:58302","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:02:14+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-24 18:02:14","ip":"[::1]:58304","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:02:14+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-24 18:02:14","ip":"[::1]:58306","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:02:14+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-24 18:02:14","ip":"[::1]:58304","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:02:14+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-24 18:02:14","ip":"[::1]:58304","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:02:14+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-24 18:02:25","ip":"[::1]:58304","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T18:02:25+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 18:02:25","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T18:02:25+07:00"}
+{"at":"2022-07-24 18:02:48","ip":"[::1]:58304","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:02:48+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:03:27","ip":"[::1]:58308","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:03:27+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-24 18:03:27","ip":"[::1]:58308","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:03:27+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-24 18:03:27","ip":"[::1]:58310","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:03:27+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-24 18:03:27","ip":"[::1]:58312","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:03:27+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-24 18:03:27","ip":"[::1]:58312","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:03:27+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-24 18:03:27","ip":"[::1]:58312","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:03:27+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-24 18:03:35","ip":"[::1]:58312","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T18:03:35+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 18:03:35","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T18:03:35+07:00"}
+{"at":"2022-07-24 18:04:13","ip":"[::1]:58312","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:04:13+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:26:43","ip":"[::1]:58318","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:26:43+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-24 18:26:43","ip":"[::1]:58318","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:26:43+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-24 18:26:43","ip":"[::1]:58320","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:26:43+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-24 18:26:43","ip":"[::1]:58322","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:26:43+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-24 18:26:44","ip":"[::1]:58320","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:26:44+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-24 18:26:44","ip":"[::1]:58320","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:26:44+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-24 18:30:34","ip":"[::1]:58324","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:30:34+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-24 18:30:34","ip":"[::1]:58324","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:30:34+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-24 18:30:34","ip":"[::1]:58328","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:30:34+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-24 18:30:34","ip":"[::1]:58326","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:30:34+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-24 18:30:34","ip":"[::1]:58328","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:30:34+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-24 18:30:34","ip":"[::1]:58326","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:30:34+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-24 18:30:56","ip":"[::1]:58326","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T18:30:56+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 18:30:56","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T18:30:56+07:00"}
+{"at":"2022-07-24 18:32:17","ip":"[::1]:58326","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:32:17+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:33:14","ip":"[::1]:58330","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:33:14+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:33:19","ip":"[::1]:58330","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:33:19+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:33:19","ip":"[::1]:58330","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:33:19+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:33:19","ip":"[::1]:58330","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:33:19+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:33:19","ip":"[::1]:58330","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:33:19+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:33:20","ip":"[::1]:58330","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:33:20+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:33:20","ip":"[::1]:58330","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:33:20+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:34:09","ip":"[::1]:58332","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:34:09+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:34:30","ip":"[::1]:58332","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:34:30+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-24 18:34:30","ip":"[::1]:58332","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:34:30+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-24 18:34:30","ip":"[::1]:58334","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:34:30+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-24 18:34:30","ip":"[::1]:58336","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:34:30+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-24 18:34:30","ip":"[::1]:58336","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:34:30+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-24 18:34:30","ip":"[::1]:58336","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:34:30+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-24 18:34:37","ip":"[::1]:58336","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T18:34:37+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 18:34:37","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T18:34:37+07:00"}
+{"at":"2022-07-24 18:35:14","ip":"[::1]:58336","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-24T18:35:14+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:35:14","level":"info","msg":"incoming request","request":{"email":"","id":2,"name":"jajang","password":"","role":""},"response":{"success":"true"},"time":"2022-07-24T18:35:14+07:00"}
+{"at":"2022-07-24 18:35:47","ip":"[::1]:58336","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:35:47+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:38:19","ip":"[::1]:58338","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:38:19+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-24 18:38:19","ip":"[::1]:58338","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:38:19+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-24 18:38:19","ip":"[::1]:58340","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:38:19+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-24 18:38:19","ip":"[::1]:58342","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:38:19+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-24 18:38:19","ip":"[::1]:58340","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:38:19+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-24 18:38:19","ip":"[::1]:58342","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:38:19+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-24 18:38:25","ip":"[::1]:58342","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T18:38:25+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 18:38:25","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T18:38:25+07:00"}
+{"at":"2022-07-24 18:39:27","ip":"[::1]:58342","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:39:27+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:43:03","ip":"[::1]:58344","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:43:03+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-24 18:43:03","ip":"[::1]:58344","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:43:03+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-24 18:43:03","ip":"[::1]:58346","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:43:03+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-24 18:43:03","ip":"[::1]:58350","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:43:03+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-24 18:43:03","ip":"[::1]:58346","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:43:03+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-24 18:43:03","ip":"[::1]:58346","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:43:03+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-24 18:43:20","ip":"[::1]:58346","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-24T18:43:20+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:43:20","level":"info","msg":"incoming request","request":{"email":"","id":2,"name":"jajang","password":"","role":""},"response":{"success":"true"},"time":"2022-07-24T18:43:20+07:00"}
+{"at":"2022-07-24 18:44:40","ip":"[::1]:58352","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-24T18:44:40+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:44:40","level":"info","msg":"incoming request","request":{"email":"","id":2,"name":"jajang","password":"","role":""},"response":{"success":"true"},"time":"2022-07-24T18:44:40+07:00"}
+{"at":"2022-07-24 18:44:51","ip":"[::1]:58352","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:44:51+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:45:21","ip":"[::1]:58352","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T18:45:21+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 18:45:21","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T18:45:21+07:00"}
+{"at":"2022-07-24 18:45:43","ip":"[::1]:58352","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-24T18:45:43+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:45:43","level":"info","msg":"incoming request","request":{"email":"","id":2,"name":"jajang","password":"admin","role":""},"response":{"success":"true"},"time":"2022-07-24T18:45:43+07:00"}
+{"at":"2022-07-24 18:45:47","ip":"[::1]:58352","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T18:45:47+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 18:47:05","ip":"[::1]:58352","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T18:47:05+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 18:47:05","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T18:47:05+07:00"}
+{"at":"2022-07-24 18:47:15","ip":"[::1]:58352","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-24T18:47:15+07:00","uri":"/profile"}
+{"at":"2022-07-24 18:47:15","level":"info","msg":"incoming request","request":{"email":"","id":2,"name":"jajang","password":"123456","role":""},"response":{"success":"true"},"time":"2022-07-24T18:47:15+07:00"}
+{"at":"2022-07-24 18:47:19","ip":"[::1]:58352","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T18:47:19+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 18:47:30","ip":"[::1]:58352","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T18:47:30+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 18:47:30","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T18:47:30+07:00"}
+{"at":"2022-07-24 18:53:49","ip":"[::1]:58354","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:53:49+07:00","uri":"/users?keyword=min\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 18:53:49","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T18:53:49+07:00"}
+{"at":"2022-07-24 18:54:01","ip":"[::1]:58354","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T18:54:01+07:00","uri":"/users?keyword=admin\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 18:54:01","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T18:54:01+07:00"}
+{"at":"2022-07-24 19:02:47","ip":"[::1]:58356","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:02:47+07:00","uri":"/users?keyword=admin\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 19:02:47","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T19:02:47+07:00"}
+{"at":"2022-07-24 19:03:24","ip":"[::1]:58358","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:03:24+07:00","uri":"/users?keyword=admin\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 19:03:24","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T19:03:24+07:00"}
+{"at":"2022-07-24 19:04:42","ip":"[::1]:58364","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:04:42+07:00","uri":"/users?keyword=admin\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 19:04:42","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T19:04:42+07:00"}
+{"at":"2022-07-24 19:04:43","ip":"[::1]:58364","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:04:43+07:00","uri":"/users?keyword=admin\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 19:04:43","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T19:04:43+07:00"}
+{"at":"2022-07-24 19:04:43","ip":"[::1]:58364","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:04:43+07:00","uri":"/users?keyword=admin\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 19:04:43","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T19:04:43+07:00"}
+{"at":"2022-07-24 19:07:50","ip":"[::1]:58366","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:07:50+07:00","uri":"/users?keyword=admin\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 19:07:50","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T19:07:50+07:00"}
+{"at":"2022-07-24 19:08:01","ip":"[::1]:58366","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:08:01+07:00","uri":"/users?keyword=a\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 19:08:01","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T19:08:01+07:00"}
+{"at":"2022-07-24 19:09:13","ip":"[::1]:58368","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:09:13+07:00","uri":"/users?keyword=a\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 19:09:13","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T19:09:13+07:00"}
+{"at":"2022-07-24 19:09:35","ip":"[::1]:58368","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-24T19:09:35+07:00","uri":"/profile"}
+{"at":"2022-07-24 19:09:35","level":"info","msg":"incoming request","request":{"email":"","id":2,"name":"admin","password":"123456","role":""},"response":{"success":"true"},"time":"2022-07-24T19:09:35+07:00"}
+{"at":"2022-07-24 19:09:39","ip":"[::1]:58368","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:09:39+07:00","uri":"/users?keyword=a\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 19:09:39","level":"info","msg":"incoming request","request":"success to get all data teachers","response":null,"time":"2022-07-24T19:09:39+07:00"}
+{"at":"2022-07-24 19:25:44","ip":"[::1]:58370","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:25:44+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-24 19:25:44","ip":"[::1]:58370","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:25:44+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-24 19:25:44","ip":"[::1]:58372","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:25:44+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-24 19:25:44","ip":"[::1]:58374","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:25:44+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-24 19:25:44","ip":"[::1]:58374","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:25:44+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-24 19:25:44","ip":"[::1]:58374","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:25:44+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-24 19:26:20","ip":"[::1]:58376","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:26:20+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-24 19:26:20","ip":"[::1]:58376","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:26:20+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-24 19:26:20","ip":"[::1]:58378","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:26:20+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-24 19:26:20","ip":"[::1]:58380","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:26:20+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-24 19:26:20","ip":"[::1]:58378","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:26:20+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-24 19:26:20","ip":"[::1]:58380","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:26:20+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-24 19:26:36","ip":"[::1]:58380","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:26:36+07:00","uri":"/users/10"}
+{"at":"2022-07-24 19:26:47","ip":"[::1]:58380","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:26:47+07:00","uri":"/users/1"}
+{"at":"2022-07-24 19:27:08","ip":"[::1]:58380","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:27:08+07:00","uri":"/users/2"}
+{"at":"2022-07-24 19:31:50","ip":"[::1]:58382","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:31:50+07:00","uri":"/users/2"}
+{"at":"2022-07-24 19:31:50","ip":"[::1]:58382","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:31:50+07:00","uri":"/users/2"}
+{"at":"2022-07-24 19:31:53","ip":"[::1]:58382","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:31:53+07:00","uri":"/users/2"}
+{"at":"2022-07-24 19:31:56","ip":"[::1]:58382","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:31:56+07:00","uri":"/users/12"}
+{"at":"2022-07-24 19:32:01","ip":"[::1]:58382","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:32:01+07:00","uri":"/users/1"}
+{"at":"2022-07-24 19:32:14","ip":"[::1]:58382","level":"info","method":"DELETE","msg":"incoming request","time":"2022-07-24T19:32:14+07:00","uri":"/users/10"}
+{"at":"2022-07-24 19:32:19","ip":"[::1]:58382","level":"info","method":"DELETE","msg":"incoming request","time":"2022-07-24T19:32:19+07:00","uri":"/users/1"}
+{"at":"2022-07-24 19:32:28","ip":"[::1]:58382","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T19:32:28+07:00","uri":"/users/1"}
+{"at":"2022-07-24 22:44:45","ip":"[::1]:58386","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T22:44:45+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-24 22:44:45","ip":"[::1]:58386","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T22:44:45+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-24 22:44:45","ip":"[::1]:58388","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T22:44:45+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-24 22:44:45","ip":"[::1]:58390","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T22:44:45+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-24 22:44:45","ip":"[::1]:58386","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T22:44:45+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-24 22:44:45","ip":"[::1]:58386","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T22:44:45+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-24 22:45:13","ip":"[::1]:58386","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T22:45:13+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 22:45:13","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T22:45:13+07:00"}
+{"at":"2022-07-24 22:45:59","ip":"[::1]:58386","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-24T22:45:59+07:00","uri":"/users/2"}
+{"at":"2022-07-24 22:46:06","ip":"[::1]:58386","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-24T22:46:06+07:00","uri":"/users/2"}
+{"at":"2022-07-24 22:46:06","level":"info","msg":"incoming request","request":{"email":"","id":2,"name":"Mas Admin","password":"","role":""},"response":{"success":"true"},"time":"2022-07-24T22:46:06+07:00"}
+{"at":"2022-07-24 22:46:20","ip":"[::1]:58386","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-24T22:46:20+07:00","uri":"/users/2"}
+{"at":"2022-07-24 22:46:20","level":"info","msg":"incoming request","request":{"email":"","id":2,"name":"Mas Admin 2","password":"","role":""},"response":{"success":"true"},"time":"2022-07-24T22:46:20+07:00"}
+{"at":"2022-07-24 22:46:34","ip":"[::1]:58386","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-24T22:46:34+07:00","uri":"/users/2"}
+{"at":"2022-07-24 22:46:34","level":"info","msg":"incoming request","request":{"email":"","id":2,"name":"Mas Admin 1","password":"","role":""},"response":{"success":"true"},"time":"2022-07-24T22:46:34+07:00"}
+{"at":"2022-07-24 22:46:49","ip":"[::1]:58386","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-24T22:46:49+07:00","uri":"/users/2"}
+{"at":"2022-07-24 22:46:49","level":"info","msg":"incoming request","request":{"email":"","id":2,"name":"Admin","password":"","role":""},"response":{"success":"true"},"time":"2022-07-24T22:46:49+07:00"}
+{"at":"2022-07-24 22:46:49","ip":"[::1]:58386","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-24T22:46:49+07:00","uri":"/users/2"}
+{"at":"2022-07-24 22:46:49","level":"info","msg":"incoming request","request":{"email":"","id":2,"name":"Admin","password":"","role":""},"response":{"success":"true"},"time":"2022-07-24T22:46:49+07:00"}
+{"at":"2022-07-24 23:10:02","ip":"[::1]:58394","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:10:02+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:10:02","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:10:02+07:00"}
+{"at":"2022-07-24 23:11:21","ip":"[::1]:58396","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:11:21+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:12:50","ip":"[::1]:58398","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:12:50+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:12:50","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:12:50+07:00"}
+{"at":"2022-07-24 23:13:50","ip":"[::1]:58400","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:13:50+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:13:50","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:13:50+07:00"}
+{"at":"2022-07-24 23:13:51","ip":"[::1]:58400","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:13:51+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:13:51","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:13:51+07:00"}
+{"at":"2022-07-24 23:13:51","ip":"[::1]:58400","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:13:51+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:13:51","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:13:51+07:00"}
+{"at":"2022-07-24 23:13:52","ip":"[::1]:58400","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:13:52+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:13:52","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:13:52+07:00"}
+{"at":"2022-07-24 23:13:54","ip":"[::1]:58400","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:13:54+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:13:54","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:13:54+07:00"}
+{"at":"2022-07-24 23:13:54","ip":"[::1]:58400","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:13:54+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:13:54","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:13:54+07:00"}
+{"at":"2022-07-24 23:13:54","ip":"[::1]:58400","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:13:54+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:13:54","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:13:54+07:00"}
+{"at":"2022-07-24 23:13:54","ip":"[::1]:58400","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:13:54+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:13:54","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:13:54+07:00"}
+{"at":"2022-07-24 23:13:55","ip":"[::1]:58400","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:13:55+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:13:55","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:13:55+07:00"}
+{"at":"2022-07-24 23:13:55","ip":"[::1]:58400","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:13:55+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:13:55","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:13:55+07:00"}
+{"at":"2022-07-24 23:13:55","ip":"[::1]:58400","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:13:55+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:13:55","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:13:55+07:00"}
+{"at":"2022-07-24 23:13:56","ip":"[::1]:58400","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:13:56+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:13:56","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:13:56+07:00"}
+{"at":"2022-07-24 23:14:13","ip":"[::1]:58400","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:14:13+07:00","uri":"/profile"}
+{"at":"2022-07-24 23:16:24","ip":"[::1]:58402","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:16:24+07:00","uri":"/profile"}
+{"at":"2022-07-24 23:16:25","ip":"[::1]:58402","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:16:25+07:00","uri":"/profile"}
+{"at":"2022-07-24 23:16:33","ip":"[::1]:58402","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:16:33+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:16:38","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:16:38+07:00"}
+{"at":"2022-07-24 23:16:49","ip":"[::1]:58402","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:16:49+07:00","uri":"/profile"}
+{"at":"2022-07-24 23:16:56","ip":"[::1]:58402","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:16:56+07:00","uri":"/profile"}
+{"at":"2022-07-24 23:20:27","ip":"[::1]:58404","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:20:27+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-24 23:20:27","ip":"[::1]:58404","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:20:27+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-24 23:20:27","ip":"[::1]:58406","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:20:27+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-24 23:20:27","ip":"[::1]:58408","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:20:27+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-24 23:20:27","ip":"[::1]:58408","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:20:27+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-24 23:20:27","ip":"[::1]:58404","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:20:27+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-24 23:20:55","ip":"[::1]:58404","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:20:55+07:00","uri":"/auth/login"}
+{"at":"2022-07-24 23:20:59","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-24T23:20:59+07:00"}
+{"at":"2022-07-24 23:21:24","ip":"[::1]:58404","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:21:24+07:00","uri":"/profile"}
+{"at":"2022-07-24 23:21:30","ip":"[::1]:58404","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:21:30+07:00","uri":"/profile"}
+{"at":"2022-07-24 23:36:34","ip":"[::1]:58412","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:36:34+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-24 23:36:34","ip":"[::1]:58412","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:36:34+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-24 23:36:34","ip":"[::1]:58414","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:36:34+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-24 23:36:34","ip":"[::1]:58416","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:36:34+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-24 23:36:34","ip":"[::1]:58414","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:36:34+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-24 23:36:34","ip":"[::1]:58414","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:36:34+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-24 23:36:48","ip":"[::1]:58414","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:36:48+07:00","uri":"/history-productions?limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:36:48","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:36:48+07:00"}
+{"at":"2022-07-24 23:37:12","ip":"[::1]:58414","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:37:12+07:00","uri":"/history-productions?start_date=2022-06-20\u0026end_date=2022-06-20\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:37:12","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:37:12+07:00"}
+{"at":"2022-07-24 23:37:19","ip":"[::1]:58414","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:37:19+07:00","uri":"/history-productions?start_date=2022-06-20\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:37:19","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:37:19+07:00"}
+{"at":"2022-07-24 23:37:19","ip":"[::1]:58414","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:37:19+07:00","uri":"/history-productions?start_date=2022-06-20\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:37:19","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:37:19+07:00"}
+{"at":"2022-07-24 23:37:24","ip":"[::1]:58414","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:37:24+07:00","uri":"/history-productions?start_date=2022-06-15\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:37:24","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:37:24+07:00"}
+{"at":"2022-07-24 23:37:24","ip":"[::1]:58414","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:37:24+07:00","uri":"/history-productions?start_date=2022-06-15\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:37:24","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:37:24+07:00"}
+{"at":"2022-07-24 23:37:34","ip":"[::1]:58414","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:37:34+07:00","uri":"/history-productions?start_date=2022-06-20\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:37:34","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:37:34+07:00"}
+{"at":"2022-07-24 23:38:11","ip":"[::1]:58418","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:38:11+07:00","uri":"/history-productions?start_date=2022-06-20\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:40:24","ip":"[::1]:58420","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:40:24+07:00","uri":"/history-productions?start_date=2022-06-20\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:40:24","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:40:24+07:00"}
+{"at":"2022-07-24 23:40:24","ip":"[::1]:58420","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:40:24+07:00","uri":"/history-productions?start_date=2022-06-20\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:40:24","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:40:24+07:00"}
+{"at":"2022-07-24 23:41:00","ip":"[::1]:58422","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:41:00+07:00","uri":"/history-productions?start_date=2022-06-20\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:41:00","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:41:00+07:00"}
+{"at":"2022-07-24 23:41:39","ip":"[::1]:58424","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:41:39+07:00","uri":"/history-productions?start_date=2022-06-20\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:41:39","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:41:39+07:00"}
+{"at":"2022-07-24 23:41:46","ip":"[::1]:58424","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:41:46+07:00","uri":"/history-productions?start_date=2022-06-344\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:41:46","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:41:46+07:00"}
+{"at":"2022-07-24 23:42:09","ip":"[::1]:58424","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:42:09+07:00","uri":"/history-productions?start_date=2022-06-344\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:42:09","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:42:09+07:00"}
+{"at":"2022-07-24 23:42:13","ip":"[::1]:58426","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:42:13+07:00","uri":"/history-productions?start_date=2022-06-344\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:42:13","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:42:13+07:00"}
+{"at":"2022-07-24 23:42:13","ip":"[::1]:58426","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:42:13+07:00","uri":"/history-productions?start_date=2022-06-344\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:42:13","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:42:13+07:00"}
+{"at":"2022-07-24 23:42:24","ip":"[::1]:58426","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:42:24+07:00","uri":"/history-productions?start_date=2022-06-344\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:42:24","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:42:24+07:00"}
+{"at":"2022-07-24 23:42:24","ip":"[::1]:58426","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:42:24+07:00","uri":"/history-productions?start_date=2022-06-344\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:42:24","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:42:24+07:00"}
+{"at":"2022-07-24 23:42:24","ip":"[::1]:58426","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:42:24+07:00","uri":"/history-productions?start_date=2022-06-344\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:42:24","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:42:24+07:00"}
+{"at":"2022-07-24 23:42:24","ip":"[::1]:58426","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:42:24+07:00","uri":"/history-productions?start_date=2022-06-344\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:42:24","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:42:24+07:00"}
+{"at":"2022-07-24 23:43:04","ip":"[::1]:58428","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:43:04+07:00","uri":"/history-productions?start_date=2022-06-344\u0026end_date=2022-06-24\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:43:04","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:43:04+07:00"}
+{"at":"2022-07-24 23:43:13","ip":"[::1]:58428","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:43:13+07:00","uri":"/history-productions?start_date=2022-06-15\u0026end_date=2022-06-18\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:43:13","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:43:13+07:00"}
+{"at":"2022-07-24 23:43:18","ip":"[::1]:58428","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:43:18+07:00","uri":"/history-productions?start_date=2022-06-151\u0026end_date=2022-06-18\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:43:18","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:43:18+07:00"}
+{"at":"2022-07-24 23:43:22","ip":"[::1]:58428","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:43:22+07:00","uri":"/history-productions?start_date=2022-06-20\u0026end_date=2022-06-18\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:43:22","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:43:22+07:00"}
+{"at":"2022-07-24 23:43:26","ip":"[::1]:58428","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:43:26+07:00","uri":"/history-productions?start_date=2022-06-20\u0026end_date=2022-06-20\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:43:26","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:43:26+07:00"}
+{"at":"2022-07-24 23:43:35","ip":"[::1]:58428","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:43:35+07:00","uri":"/history-productions?end_date=2022-06-20\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:43:35","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:43:35+07:00"}
+{"at":"2022-07-24 23:44:13","ip":"[::1]:58428","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:44:13+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:44:13","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2021-10-28T00:00:00Z","production":2400,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-24T23:44:13+07:00"}
+{"at":"2022-07-24 23:44:20","ip":"[::1]:58428","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:44:20+07:00","uri":"/history-productions?end_date=2022-06-20\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:44:20","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:44:20+07:00"}
+{"at":"2022-07-24 23:44:42","ip":"[::1]:58428","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:44:42+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:44:42","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2021-10-28T00:00:00Z","production":2400,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-24T23:44:42+07:00"}
+{"at":"2022-07-24 23:44:45","ip":"[::1]:58428","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:44:45+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:44:45","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2021-10-28T00:00:00Z","production":2400,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-24T23:44:45+07:00"}
+{"at":"2022-07-24 23:44:45","ip":"[::1]:58428","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:44:45+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:44:45","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2021-10-28T00:00:00Z","production":2400,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-24T23:44:45+07:00"}
+{"at":"2022-07-24 23:44:45","ip":"[::1]:58428","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:44:45+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:44:45","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2021-10-28T00:00:00Z","production":2400,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-24T23:44:45+07:00"}
+{"at":"2022-07-24 23:44:46","ip":"[::1]:58428","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:44:46+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:44:46","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2021-10-28T00:00:00Z","production":2400,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-24T23:44:46+07:00"}
+{"at":"2022-07-24 23:44:46","ip":"[::1]:58428","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:44:46+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:44:46","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2021-10-28T00:00:00Z","production":2400,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-24T23:44:46+07:00"}
+{"at":"2022-07-24 23:44:46","ip":"[::1]:58428","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:44:46+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:44:46","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2021-10-28T00:00:00Z","production":2400,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-24T23:44:46+07:00"}
+{"at":"2022-07-24 23:44:46","ip":"[::1]:58428","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:44:46+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:44:46","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2021-10-28T00:00:00Z","production":2400,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-24T23:44:46+07:00"}
+{"at":"2022-07-24 23:44:47","ip":"[::1]:58428","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:44:47+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:44:47","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2021-10-28T00:00:00Z","production":2400,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-24T23:44:47+07:00"}
+{"at":"2022-07-24 23:44:52","ip":"[::1]:58428","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:44:52+07:00","uri":"/history-productions?end_date=2022-06-20\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:44:52","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:44:52+07:00"}
+{"at":"2022-07-24 23:49:00","ip":"[::1]:58430","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:49:00+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:49:00","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2021-10-28T00:00:00Z","production":2400,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-24T23:49:00+07:00"}
+{"at":"2022-07-24 23:49:03","ip":"[::1]:58430","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:49:03+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:49:03","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2021-10-28T00:00:00Z","production":2400,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-24T23:49:03+07:00"}
+{"at":"2022-07-24 23:49:11","ip":"[::1]:58432","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:49:11+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:52:47","ip":"[::1]:58434","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:52:47+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:52:47","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2021-10-28T00:00:00Z","production":2400,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-24T23:52:47+07:00"}
+{"at":"2022-07-24 23:53:10","ip":"[::1]:58434","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:53:10+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:53:10","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2021-10-28T00:00:00Z","production":2400,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-24T23:53:10+07:00"}
+{"at":"2022-07-24 23:54:13","ip":"[::1]:58436","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:54:13+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:55:02","ip":"[::1]:58440","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:55:02+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:55:06","ip":"[::1]:58440","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:55:06+07:00","uri":"/history-productions?end_date=2022-06-20\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:55:06","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:55:06+07:00"}
+{"at":"2022-07-24 23:55:20","ip":"[::1]:58440","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:55:20+07:00","uri":"/history-productions?start_date=2022-06-21\u0026end_date=2022-06-30\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:55:20","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:55:20+07:00"}
+{"at":"2022-07-24 23:55:25","ip":"[::1]:58440","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:55:25+07:00","uri":"/history-productions?start_date=2022-06-21\u0026end_date=2022-06-30\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:55:25","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:55:25+07:00"}
+{"at":"2022-07-24 23:55:25","ip":"[::1]:58440","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:55:25+07:00","uri":"/history-productions?start_date=2022-06-21\u0026end_date=2022-06-30\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:55:25","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:55:25+07:00"}
+{"at":"2022-07-24 23:55:26","ip":"[::1]:58440","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:55:26+07:00","uri":"/history-productions?start_date=2022-06-21\u0026end_date=2022-06-30\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:55:26","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:55:26+07:00"}
+{"at":"2022-07-24 23:55:26","ip":"[::1]:58440","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:55:26+07:00","uri":"/history-productions?start_date=2022-06-21\u0026end_date=2022-06-30\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:55:26","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:55:26+07:00"}
+{"at":"2022-07-24 23:55:26","ip":"[::1]:58440","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:55:26+07:00","uri":"/history-productions?start_date=2022-06-21\u0026end_date=2022-06-30\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:55:26","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:55:26+07:00"}
+{"at":"2022-07-24 23:55:26","ip":"[::1]:58440","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:55:26+07:00","uri":"/history-productions?start_date=2022-06-21\u0026end_date=2022-06-30\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:55:26","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:55:26+07:00"}
+{"at":"2022-07-24 23:55:34","ip":"[::1]:58440","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:55:34+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:55:49","ip":"[::1]:58442","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:55:49+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:55:58","ip":"[::1]:58442","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:55:58+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:56:02","ip":"[::1]:58444","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:56:02+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:56:03","ip":"[::1]:58444","level":"info","method":"POST","msg":"incoming request","time":"2022-07-24T23:56:03+07:00","uri":"/history-productions"}
+{"at":"2022-07-24 23:56:07","ip":"[::1]:58444","level":"info","method":"GET","msg":"incoming request","time":"2022-07-24T23:56:07+07:00","uri":"/history-productions?start_date=2022-06-21\u0026end_date=2022-06-30\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-24 23:56:07","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-24T23:56:07+07:00"}
+{"at":"2022-07-25 10:59:41","ip":"[::1]:42930","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T10:59:41+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-25 10:59:41","ip":"[::1]:42930","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T10:59:41+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-25 10:59:41","ip":"[::1]:42932","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T10:59:41+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-25 10:59:41","ip":"[::1]:42934","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T10:59:41+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-25 10:59:41","ip":"[::1]:42932","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T10:59:41+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-25 11:00:09","ip":"[::1]:42932","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T11:00:09+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 11:00:18","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-25T11:00:18+07:00"}
+{"at":"2022-07-25 11:01:03","ip":"[::1]:42932","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:01:03+07:00","uri":"/history-productions?limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:01:09","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:01:09+07:00"}
+{"at":"2022-07-25 11:01:37","ip":"[::1]:42932","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:01:37+07:00","uri":"/history-productions?start_date=2022-06-20\u0026end_date=2022-09-10\u0026limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:01:41","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:01:41+07:00"}
+{"at":"2022-07-25 11:02:41","ip":"[::1]:42932","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T11:02:41+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 11:03:05","ip":"[::1]:42932","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T11:03:05+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 11:03:09","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2022-07-20T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:03:09+07:00"}
+{"at":"2022-07-25 11:06:51","ip":"[::1]:42936","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T11:06:51+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 11:06:52","ip":"[::1]:42936","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T11:06:52+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 11:06:57","ip":"[::1]:42936","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T11:06:57+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 11:06:57","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2022-07-21T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:06:57+07:00"}
+{"at":"2022-07-25 11:11:27","ip":"[::1]:42938","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:11:27+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-25 11:11:27","ip":"[::1]:42938","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:11:27+07:00","uri":"/swagger/swagger-ui-bundle.js.map"}
+{"at":"2022-07-25 11:11:27","ip":"[::1]:42940","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:11:27+07:00","uri":"/swagger/swagger-ui-standalone-preset.js.map"}
+{"at":"2022-07-25 11:11:27","ip":"[::1]:42938","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:11:27+07:00","uri":"/swagger/swagger-ui.css.map"}
+{"at":"2022-07-25 11:11:32","ip":"[::1]:42938","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:11:32+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 11:11:32","ip":"[::1]:42938","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:11:32+07:00","uri":"/favicon.ico"}
+{"at":"2022-07-25 11:11:56","ip":"[::1]:42938","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T11:11:56+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 11:11:56","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-25T11:11:56+07:00"}
+{"at":"2022-07-25 11:12:03","ip":"[::1]:42938","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T11:12:03+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 11:13:07","ip":"[::1]:42938","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T11:13:07+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 11:19:19","ip":"[::1]:42944","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:19:19+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-25 11:19:19","ip":"[::1]:42944","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:19:19+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-25 11:19:19","ip":"[::1]:42946","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:19:19+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-25 11:19:19","ip":"[::1]:42948","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:19:19+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-25 11:19:19","ip":"[::1]:42946","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:19:19+07:00","uri":"/swagger/swagger-ui-bundle.js.map"}
+{"at":"2022-07-25 11:19:19","ip":"[::1]:42946","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:19:19+07:00","uri":"/swagger/swagger-ui.css.map"}
+{"at":"2022-07-25 11:19:19","ip":"[::1]:42946","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:19:19+07:00","uri":"/swagger/swagger-ui-standalone-preset.js.map"}
+{"at":"2022-07-25 11:19:19","ip":"[::1]:42946","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:19:19+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-25 11:19:19","ip":"[::1]:42946","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:19:19+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-25 11:19:34","ip":"[::1]:42946","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:19:34+07:00","uri":"/history-productions/1000"}
+{"at":"2022-07-25 11:19:55","ip":"[::1]:42946","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:19:55+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:19:55","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:19:55+07:00"}
+{"at":"2022-07-25 11:20:58","ip":"[::1]:42950","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:20:58+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:20:58","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:20:58+07:00"}
+{"at":"2022-07-25 11:21:08","ip":"[::1]:42950","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:21:08+07:00","uri":"/history-productions?limit=5\u0026page=5\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:21:08","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:21:08+07:00"}
+{"at":"2022-07-25 11:21:14","ip":"[::1]:42950","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:21:14+07:00","uri":"/history-productions?limit=5\u0026page=4\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:21:14","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:21:14+07:00"}
+{"at":"2022-07-25 11:21:44","ip":"[::1]:42950","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:21:44+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:21:44","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:21:44+07:00"}
+{"at":"2022-07-25 11:22:14","ip":"[::1]:42950","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:22:14+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:22:14","level":"info","msg":"incoming request","request":{"id":17,"market_demand":0,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:22:14+07:00"}
+{"at":"2022-07-25 11:22:18","ip":"[::1]:42950","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:22:18+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:22:18","level":"info","msg":"incoming request","request":{"id":17,"market_demand":0,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:22:18+07:00"}
+{"at":"2022-07-25 11:22:30","ip":"[::1]:42950","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:22:30+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:22:30","level":"info","msg":"incoming request","request":{"id":17,"market_demand":0,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:22:30+07:00"}
+{"at":"2022-07-25 11:22:38","ip":"[::1]:42950","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:22:38+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:22:38","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:22:38+07:00"}
+{"at":"2022-07-25 11:23:03","ip":"[::1]:42950","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:23:03+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:23:13","ip":"[::1]:42950","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:23:13+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:23:13","level":"info","msg":"incoming request","request":{"id":17,"market_demand":0,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:23:13+07:00"}
+{"at":"2022-07-25 11:24:30","ip":"[::1]:42954","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:24:30+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:24:39","level":"info","msg":"incoming request","request":{"id":17,"market_demand":0,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:24:39+07:00"}
+{"at":"2022-07-25 11:26:48","ip":"[::1]:42954","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T11:26:48+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 11:27:05","level":"error","msg":"Error 1292: Incorrect date value: '0000-00-00' for column 'period_date' at row 1","request":{"market_demand":0,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"error":"Error 1292: Incorrect date value: '0000-00-00' for column 'period_date' at row 1"},"time":"2022-07-25T11:27:05+07:00"}
+{"at":"2022-07-25 11:27:59","ip":"[::1]:42954","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T11:27:59+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 11:28:05","level":"error","msg":"Error 1292: Incorrect date value: '0000-00-00' for column 'period_date' at row 1","request":{"market_demand":0,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"error":"Error 1292: Incorrect date value: '0000-00-00' for column 'period_date' at row 1"},"time":"2022-07-25T11:28:05+07:00"}
+{"at":"2022-07-25 11:28:32","ip":"[::1]:42954","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T11:28:32+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 11:34:35","ip":"[::1]:42962","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:34:35+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:34:35","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:34:35+07:00"}
+{"at":"2022-07-25 11:34:38","ip":"[::1]:42962","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:34:38+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:34:38","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:34:38+07:00"}
+{"at":"2022-07-25 11:35:04","ip":"[::1]:42964","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:35:04+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:35:04","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:35:04+07:00"}
+{"at":"2022-07-25 11:35:05","ip":"[::1]:42964","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:35:05+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:35:05","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:35:05+07:00"}
+{"at":"2022-07-25 11:35:05","ip":"[::1]:42964","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:35:05+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:35:05","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:35:05+07:00"}
+{"at":"2022-07-25 11:35:06","ip":"[::1]:42964","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:35:06+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:35:06","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:35:06+07:00"}
+{"at":"2022-07-25 11:35:06","ip":"[::1]:42964","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:35:06+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:35:06","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:35:06+07:00"}
+{"at":"2022-07-25 11:35:06","ip":"[::1]:42964","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:35:06+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:35:06","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:35:06+07:00"}
+{"at":"2022-07-25 11:35:06","ip":"[::1]:42964","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:35:06+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:35:06","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:35:06+07:00"}
+{"at":"2022-07-25 11:35:06","ip":"[::1]:42964","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:35:06+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:35:06","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:35:06+07:00"}
+{"at":"2022-07-25 11:35:06","ip":"[::1]:42964","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:35:06+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:35:06","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:35:06+07:00"}
+{"at":"2022-07-25 11:35:24","ip":"[::1]:42966","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:35:24+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:35:43","ip":"[::1]:42968","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:35:43+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:36:04","ip":"[::1]:42970","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:36:04+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:36:04","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:36:04+07:00"}
+{"at":"2022-07-25 11:36:17","ip":"[::1]:42972","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:36:17+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:36:57","ip":"[::1]:42974","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:36:57+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:36:57","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:36:57+07:00"}
+{"at":"2022-07-25 11:37:40","ip":"[::1]:42976","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:37:40+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:37:40","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:37:40+07:00"}
+{"at":"2022-07-25 11:40:45","ip":"[::1]:42978","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:40:45+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:40:45","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:40:45+07:00"}
+{"at":"2022-07-25 11:42:00","ip":"[::1]:42980","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:42:00+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:42:00","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:42:00+07:00"}
+{"at":"2022-07-25 11:51:29","ip":"[::1]:42982","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T11:51:29+07:00","uri":"/history-productions?limit=5\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 11:51:29","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T11:51:29+07:00"}
+{"at":"2022-07-25 11:52:01","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:01+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:01","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:01+07:00"}
+{"at":"2022-07-25 11:52:08","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:08+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:08","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:08+07:00"}
+{"at":"2022-07-25 11:52:08","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:08+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:08","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:08+07:00"}
+{"at":"2022-07-25 11:52:08","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:08+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:08","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:08+07:00"}
+{"at":"2022-07-25 11:52:08","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:08+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:08","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:08+07:00"}
+{"at":"2022-07-25 11:52:09","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:09+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:09","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:09+07:00"}
+{"at":"2022-07-25 11:52:09","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:09+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:09","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:09+07:00"}
+{"at":"2022-07-25 11:52:09","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:09+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:09","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:09+07:00"}
+{"at":"2022-07-25 11:52:09","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:09+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:09","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:09+07:00"}
+{"at":"2022-07-25 11:52:09","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:09+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:09","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:09+07:00"}
+{"at":"2022-07-25 11:52:09","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:09+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:09","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:09+07:00"}
+{"at":"2022-07-25 11:52:09","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:09+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:09","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:09+07:00"}
+{"at":"2022-07-25 11:52:10","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:10+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:10","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:10+07:00"}
+{"at":"2022-07-25 11:52:10","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:10+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:10","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:10+07:00"}
+{"at":"2022-07-25 11:52:10","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:10+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:10","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:10+07:00"}
+{"at":"2022-07-25 11:52:10","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:10+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:10","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:10+07:00"}
+{"at":"2022-07-25 11:52:11","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:11+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:11","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:11+07:00"}
+{"at":"2022-07-25 11:52:11","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:11+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:11","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"0001-01-01T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:11+07:00"}
+{"at":"2022-07-25 11:52:18","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:18+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:18","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"2022-07-21T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:18+07:00"}
+{"at":"2022-07-25 11:52:20","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:20+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:20","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"2022-07-21T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:20+07:00"}
+{"at":"2022-07-25 11:52:20","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:20+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:20","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"2022-07-21T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:20+07:00"}
+{"at":"2022-07-25 11:52:21","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:21+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:21","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"2022-07-21T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:21+07:00"}
+{"at":"2022-07-25 11:52:21","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:21+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:21","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"2022-07-21T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:21+07:00"}
+{"at":"2022-07-25 11:52:22","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:22+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:22","level":"info","msg":"incoming request","request":{"id":17,"market_demand":1200,"period_date":"2022-07-21T00:00:00Z","production":2800,"stock":140,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T11:52:22+07:00"}
+{"at":"2022-07-25 11:52:31","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:31+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:52:38","ip":"[::1]:42982","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T11:52:38+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:53:20","ip":"[::1]:42982","level":"info","method":"DELETE","msg":"incoming request","time":"2022-07-25T11:53:20+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 11:53:26","ip":"[::1]:42982","level":"info","method":"DELETE","msg":"incoming request","time":"2022-07-25T11:53:26+07:00","uri":"/history-productions/17"}
+{"at":"2022-07-25 12:00:28","ip":"[::1]:42984","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T12:00:28+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 12:00:28","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-25T12:00:28+07:00"}
+{"at":"2022-07-25 12:00:52","ip":"[::1]:42984","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T12:00:52+07:00","uri":"/users?limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 12:00:52","level":"info","msg":"incoming request","request":"success to get all data users","response":null,"time":"2022-07-25T12:00:52+07:00"}
+{"at":"2022-07-25 20:36:15","ip":"[::1]:40840","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T20:36:15+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-25 20:36:15","ip":"[::1]:40840","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T20:36:15+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-25 20:36:15","ip":"[::1]:40844","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T20:36:15+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-25 20:36:15","ip":"[::1]:40842","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T20:36:15+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-25 20:36:16","ip":"[::1]:40842","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T20:36:16+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-25 20:36:56","ip":"[::1]:40842","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T20:36:56+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 20:36:56","level":"info","msg":"incoming request","request":{"email":"admin@mailinator.com","sso":false},"response":{"success":"true"},"time":"2022-07-25T20:36:56+07:00"}
+{"at":"2022-07-25 20:37:20","ip":"[::1]:40842","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T20:37:20+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 20:37:20","level":"error","msg":"Error 1146: Table 'widyatama_koi_db.calculate_productions' doesn't exist","request":{"market_demand":1230,"stock":120,"user_id":2},"response":{"error":"Error 1146: Table 'widyatama_koi_db.calculate_productions' doesn't exist"},"time":"2022-07-25T20:37:20+07:00"}
+{"at":"2022-07-25 20:54:12","ip":"[::1]:40846","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T20:54:12+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 20:54:12","level":"info","msg":"incoming request","request":{"market_demand":1230,"stock":120,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T20:54:12+07:00"}
+{"at":"2022-07-25 20:57:23","ip":"[::1]:40848","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T20:57:23+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 20:57:45","ip":"[::1]:40848","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T20:57:45+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-25 20:57:45","ip":"[::1]:40848","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T20:57:45+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-25 20:57:45","ip":"[::1]:40850","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T20:57:45+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-25 20:57:45","ip":"[::1]:40852","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T20:57:45+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-25 20:57:45","ip":"[::1]:40850","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T20:57:45+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-25 20:57:45","ip":"[::1]:40850","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T20:57:45+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-25 20:58:13","ip":"[::1]:40850","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T20:58:13+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 20:58:13","level":"error","msg":"record not found","request":{"sso":false,"username":"admin@mailinator.com"},"response":{"error":"record not found","success":"false"},"time":"2022-07-25T20:58:13+07:00"}
+{"at":"2022-07-25 20:58:55","ip":"[::1]:40850","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T20:58:55+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 20:58:55","level":"error","msg":"record not found","request":{"sso":false,"username":"admin@mailinator.com"},"response":{"error":"record not found","success":"false"},"time":"2022-07-25T20:58:55+07:00"}
+{"at":"2022-07-25 20:59:03","ip":"[::1]:40850","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T20:59:03+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 20:59:03","level":"info","msg":"incoming request","request":{"sso":false,"username":"admin"},"response":{"success":"true"},"time":"2022-07-25T20:59:03+07:00"}
+{"at":"2022-07-25 21:03:21","ip":"[::1]:40854","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:03:21+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 21:03:22","level":"info","msg":"incoming request","request":{"market_demand":917,"period_date":"2021-09-05T00:00:00Z","production":2140,"stock":58,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:03:22+07:00"}
+{"at":"2022-07-25 21:04:15","ip":"[::1]:40854","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:04:15+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 21:04:15","level":"info","msg":"incoming request","request":{"market_demand":1050,"period_date":"2021-11-12T00:00:00Z","production":2320,"stock":64,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:04:15+07:00"}
+{"at":"2022-07-25 21:05:15","ip":"[::1]:40854","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:05:15+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 21:05:15","level":"info","msg":"incoming request","request":{"market_demand":1200,"period_date":"2022-01-09T00:00:00Z","production":3150,"stock":36,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:05:15+07:00"}
+{"at":"2022-07-25 21:06:00","ip":"[::1]:40854","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:06:00+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 21:06:00","level":"info","msg":"incoming request","request":{"market_demand":780,"period_date":"2022-03-12T00:00:00Z","production":1800,"stock":112,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:06:00+07:00"}
+{"at":"2022-07-25 21:06:48","ip":"[::1]:40854","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:06:48+07:00","uri":"/history-productions"}
+{"at":"2022-07-25 21:06:48","level":"info","msg":"incoming request","request":{"market_demand":870,"period_date":"2022-05-16T00:00:00Z","production":2200,"stock":86,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:06:48+07:00"}
+{"at":"2022-07-25 21:07:08","ip":"[::1]:40854","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T21:07:08+07:00","uri":"/history-productions?limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 21:07:08","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T21:07:08+07:00"}
+{"at":"2022-07-25 21:07:54","ip":"[::1]:40854","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:07:54+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:07:54","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:07:54+07:00"}
+{"at":"2022-07-25 21:08:23","ip":"[::1]:40856","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:08:23+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:09:28","ip":"[::1]:40858","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:09:28+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:20:48","ip":"[::1]:40860","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:20:48+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:20:48","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:20:48+07:00"}
+{"at":"2022-07-25 21:21:01","ip":"[::1]:40862","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:21:01+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:23:37","ip":"[::1]:40864","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:23:37+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:28:23","ip":"[::1]:40866","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:28:23+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:34:20","ip":"[::1]:40868","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:34:20+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:34:20","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:34:20+07:00"}
+{"at":"2022-07-25 21:36:00","ip":"[::1]:40870","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:36:00+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:44:09","ip":"[::1]:40872","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:44:09+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:44:09","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:44:09+07:00"}
+{"at":"2022-07-25 21:44:19","ip":"[::1]:40872","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:44:19+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:44:19","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:44:19+07:00"}
+{"at":"2022-07-25 21:44:19","ip":"[::1]:40872","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:44:19+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:44:19","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:44:19+07:00"}
+{"at":"2022-07-25 21:44:19","ip":"[::1]:40872","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:44:19+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:44:19","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:44:19+07:00"}
+{"at":"2022-07-25 21:44:19","ip":"[::1]:40872","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:44:19+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:44:19","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:44:19+07:00"}
+{"at":"2022-07-25 21:44:29","ip":"[::1]:40874","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:44:29+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:48:21","ip":"[::1]:40876","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:48:21+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:49:21","ip":"[::1]:40880","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:49:21+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:54:56","ip":"[::1]:40882","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:54:56+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:54:56","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:54:56+07:00"}
+{"at":"2022-07-25 21:55:23","ip":"[::1]:40884","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:55:23+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:57:11","ip":"[::1]:40888","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:57:11+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:57:11","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:57:11+07:00"}
+{"at":"2022-07-25 21:57:22","ip":"[::1]:40888","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:57:22+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:57:22","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:57:22+07:00"}
+{"at":"2022-07-25 21:57:25","ip":"[::1]:40888","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:57:25+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:57:25","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T21:57:25+07:00"}
+{"at":"2022-07-25 21:59:14","ip":"[::1]:40890","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:59:14+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:59:22","ip":"[::1]:40890","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:59:22+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 21:59:22","level":"info","msg":"incoming request","request":{"sso":false,"username":"admin"},"response":{"success":"true"},"time":"2022-07-25T21:59:22+07:00"}
+{"at":"2022-07-25 21:59:30","ip":"[::1]:40890","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:59:30+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:59:33","ip":"[::1]:40890","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:59:33+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:59:34","ip":"[::1]:40890","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:59:34+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 21:59:34","ip":"[::1]:40890","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T21:59:34+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:00:00","ip":"[::1]:40894","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:00:00+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-25 22:00:00","ip":"[::1]:40894","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:00:00+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-25 22:00:00","ip":"[::1]:40896","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:00:00+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-25 22:00:00","ip":"[::1]:40898","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:00:00+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-25 22:00:01","ip":"[::1]:40898","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:00:01+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-25 22:00:01","ip":"[::1]:40898","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:00:01+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-25 22:00:15","ip":"[::1]:40898","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:00:15+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 22:00:15","level":"info","msg":"incoming request","request":{"sso":false,"username":"admin"},"response":{"success":"true"},"time":"2022-07-25T22:00:15+07:00"}
+{"at":"2022-07-25 22:01:14","ip":"[::1]:40898","level":"info","method":"PUT","msg":"incoming request","time":"2022-07-25T22:01:14+07:00","uri":"/profile"}
+{"at":"2022-07-25 22:01:14","level":"info","msg":"incoming request","request":{"id":2,"name":"ADMIN","password":"123456","phone_number":"087874625364","role":"","username":""},"response":{"success":"true"},"time":"2022-07-25T22:01:14+07:00"}
+{"at":"2022-07-25 22:01:37","ip":"[::1]:40898","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:01:37+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:01:37","level":"info","msg":"incoming request","request":{"market_demand":2140,"stock":58,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:01:37+07:00"}
+{"at":"2022-07-25 22:02:01","ip":"[::1]:40898","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:02:01+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:02:01","level":"info","msg":"incoming request","request":{"market_demand":2940,"stock":58,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:02:01+07:00"}
+{"at":"2022-07-25 22:02:03","ip":"[::1]:40898","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:02:03+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:02:03","level":"info","msg":"incoming request","request":{"market_demand":2940,"stock":58,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:02:03+07:00"}
+{"at":"2022-07-25 22:02:03","ip":"[::1]:40898","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:02:03+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:02:03","level":"info","msg":"incoming request","request":{"market_demand":2940,"stock":58,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:02:03+07:00"}
+{"at":"2022-07-25 22:02:04","ip":"[::1]:40898","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:02:04+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:02:04","level":"info","msg":"incoming request","request":{"market_demand":2940,"stock":58,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:02:04+07:00"}
+{"at":"2022-07-25 22:02:04","ip":"[::1]:40898","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:02:04+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:02:04","level":"info","msg":"incoming request","request":{"market_demand":2940,"stock":58,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:02:04+07:00"}
+{"at":"2022-07-25 22:02:04","ip":"[::1]:40898","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:02:04+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:02:04","level":"info","msg":"incoming request","request":{"market_demand":2940,"stock":58,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:02:04+07:00"}
+{"at":"2022-07-25 22:02:04","ip":"[::1]:40898","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:02:04+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:02:04","level":"info","msg":"incoming request","request":{"market_demand":2940,"stock":58,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:02:04+07:00"}
+{"at":"2022-07-25 22:02:04","ip":"[::1]:40898","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:02:04+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:02:04","level":"info","msg":"incoming request","request":{"market_demand":2940,"stock":58,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:02:04+07:00"}
+{"at":"2022-07-25 22:02:58","ip":"[::1]:40898","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:02:58+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:02:58","level":"info","msg":"incoming request","request":{"market_demand":3940,"stock":58,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:02:58+07:00"}
+{"at":"2022-07-25 22:03:10","ip":"[::1]:40900","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:03:10+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:04:48","level":"info","msg":"incoming request","request":{"market_demand":3940,"stock":58,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:04:48+07:00"}
+{"at":"2022-07-25 22:05:04","ip":"[::1]:40900","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:05:04+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:05:26","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:05:26+07:00"}
+{"at":"2022-07-25 22:05:32","ip":"[::1]:40900","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:05:32+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:06:09","ip":"[::1]:40910","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:06:09+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:06:40","level":"info","msg":"incoming request","request":{"market_demand":1900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:06:40+07:00"}
+{"at":"2022-07-25 22:07:39","ip":"[::1]:40910","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:07:39+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:08:09","level":"info","msg":"incoming request","request":{"market_demand":1900,"stock":34,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:08:09+07:00"}
+{"at":"2022-07-25 22:08:24","ip":"[::1]:40910","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:08:24+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:08:28","level":"info","msg":"incoming request","request":{"market_demand":1900,"stock":12,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:08:28+07:00"}
+{"at":"2022-07-25 22:10:05","ip":"[::1]:40912","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:10:05+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:21:47","ip":"[::1]:40914","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:21:47+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:21:47","level":"info","msg":"incoming request","request":{"market_demand":1900,"stock":67,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:21:47+07:00"}
+{"at":"2022-07-25 22:22:08","ip":"[::1]:40914","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:22:08+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:22:08","level":"info","msg":"incoming request","request":{"market_demand":899,"stock":67,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:22:08+07:00"}
+{"at":"2022-07-25 22:22:17","ip":"[::1]:40914","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:22:17+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:22:17","level":"info","msg":"incoming request","request":{"market_demand":1899,"stock":67,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:22:17+07:00"}
+{"at":"2022-07-25 22:28:40","ip":"[::1]:40916","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:28:40+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:28:40","level":"info","msg":"incoming request","request":{"market_demand":6000,"stock":67,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:28:40+07:00"}
+{"at":"2022-07-25 22:28:48","ip":"[::1]:40916","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:28:48+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:28:48","level":"info","msg":"incoming request","request":{"market_demand":6300,"stock":67,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:28:48+07:00"}
+{"at":"2022-07-25 22:28:56","ip":"[::1]:40916","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:28:56+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:28:56","level":"info","msg":"incoming request","request":{"market_demand":6300,"stock":-11,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:28:56+07:00"}
+{"at":"2022-07-25 22:29:12","ip":"[::1]:40916","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:29:12+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:29:12","level":"info","msg":"incoming request","request":{"market_demand":6300,"stock":500,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:29:12+07:00"}
+{"at":"2022-07-25 22:29:13","ip":"[::1]:40916","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:29:13+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:29:13","level":"info","msg":"incoming request","request":{"market_demand":6300,"stock":500,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:29:13+07:00"}
+{"at":"2022-07-25 22:29:13","ip":"[::1]:40916","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:29:13+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:29:13","level":"info","msg":"incoming request","request":{"market_demand":6300,"stock":500,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:29:13+07:00"}
+{"at":"2022-07-25 22:29:13","ip":"[::1]:40916","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:29:13+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:29:13","level":"info","msg":"incoming request","request":{"market_demand":6300,"stock":500,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:29:13+07:00"}
+{"at":"2022-07-25 22:29:13","ip":"[::1]:40916","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:29:13+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:29:13","level":"info","msg":"incoming request","request":{"market_demand":6300,"stock":500,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:29:13+07:00"}
+{"at":"2022-07-25 22:29:14","ip":"[::1]:40916","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:29:14+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-25 22:29:14","level":"info","msg":"incoming request","request":{"market_demand":6300,"stock":500,"user_id":2},"response":{"success":"true"},"time":"2022-07-25T22:29:14+07:00"}
+{"at":"2022-07-25 22:46:22","ip":"[::1]:40918","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:46:22+07:00","uri":"/users?limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 22:46:22","level":"info","msg":"incoming request","request":"success to get all data users","response":null,"time":"2022-07-25T22:46:22+07:00"}
+{"at":"2022-07-25 22:47:08","ip":"[::1]:40918","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:47:08+07:00","uri":"/users"}
+{"at":"2022-07-25 22:47:27","ip":"[::1]:40918","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:47:27+07:00","uri":"/users"}
+{"at":"2022-07-25 22:47:27","level":"info","msg":"incoming request","request":{"name":"Kepala Petugas","username":"head_officer"},"response":{"success":"true"},"time":"2022-07-25T22:47:27+07:00"}
+{"at":"2022-07-25 22:47:32","ip":"[::1]:40918","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:47:32+07:00","uri":"/users?limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 22:47:32","level":"info","msg":"incoming request","request":"success to get all data users","response":null,"time":"2022-07-25T22:47:32+07:00"}
+{"at":"2022-07-25 22:47:56","ip":"[::1]:40918","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:47:56+07:00","uri":"/users"}
+{"at":"2022-07-25 22:47:56","level":"info","msg":"incoming request","request":{"name":"Petugas","username":"officer"},"response":{"success":"true"},"time":"2022-07-25T22:47:56+07:00"}
+{"at":"2022-07-25 22:48:11","ip":"[::1]:40918","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:48:11+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 22:48:11","level":"info","msg":"incoming request","request":{"sso":false,"username":"head_officer"},"response":{"success":"true"},"time":"2022-07-25T22:48:11+07:00"}
+{"at":"2022-07-25 22:48:21","ip":"[::1]:40918","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T22:48:21+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 22:48:21","level":"info","msg":"incoming request","request":{"sso":false,"username":"officer"},"response":{"success":"true"},"time":"2022-07-25T22:48:21+07:00"}
+{"at":"2022-07-25 22:48:37","ip":"[::1]:40918","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:48:37+07:00","uri":"/users?limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 22:58:00","ip":"[::1]:40920","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:00+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-25 22:58:00","ip":"[::1]:40920","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:00+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-25 22:58:00","ip":"[::1]:40922","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:00+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-25 22:58:00","ip":"[::1]:40924","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:00+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-25 22:58:00","ip":"[::1]:40922","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:00+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-25 22:58:00","ip":"[::1]:40922","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:00+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-25 22:58:10","ip":"[::1]:40922","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:10+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 22:58:14","ip":"[::1]:40922","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:14+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 22:58:39","ip":"[::1]:40926","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:39+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 22:58:41","ip":"[::1]:40926","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:41+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 22:58:41","ip":"[::1]:40926","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:41+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 22:58:42","ip":"[::1]:40926","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:42+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 22:58:42","ip":"[::1]:40926","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:42+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 22:58:42","ip":"[::1]:40926","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:42+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 22:58:42","ip":"[::1]:40926","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:42+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 22:58:42","ip":"[::1]:40926","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:42+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 22:58:42","ip":"[::1]:40926","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:58:42+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 22:59:29","ip":"[::1]:40928","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T22:59:29+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 23:00:07","ip":"[::1]:40928","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T23:00:07+07:00","uri":"/history-productions/20"}
+{"at":"2022-07-25 23:17:56","ip":"[::1]:40930","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T23:17:56+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-25 23:17:56","ip":"[::1]:40930","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T23:17:56+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-25 23:17:56","ip":"[::1]:40932","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T23:17:56+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-25 23:17:56","ip":"[::1]:40934","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T23:17:56+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-25 23:17:56","ip":"[::1]:40932","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T23:17:56+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-25 23:17:56","ip":"[::1]:40932","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T23:17:56+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-25 23:18:02","ip":"[::1]:40932","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T23:18:02+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 23:18:16","ip":"[::1]:40932","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T23:18:16+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 23:18:16","level":"error","msg":"record not found","request":{"sso":false,"username":"123456"},"response":{"error":"record not found","success":"false"},"time":"2022-07-25T23:18:16+07:00"}
+{"at":"2022-07-25 23:18:23","ip":"[::1]:40932","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T23:18:23+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 23:18:23","level":"error","msg":"record not found","request":{"sso":false,"username":"123456"},"response":{"error":"record not found","success":"false"},"time":"2022-07-25T23:18:23+07:00"}
+{"at":"2022-07-25 23:18:23","ip":"[::1]:40932","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T23:18:23+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 23:18:23","level":"error","msg":"record not found","request":{"sso":false,"username":"123456"},"response":{"error":"record not found","success":"false"},"time":"2022-07-25T23:18:23+07:00"}
+{"at":"2022-07-25 23:18:23","ip":"[::1]:40932","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T23:18:23+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 23:18:23","level":"error","msg":"record not found","request":{"sso":false,"username":"123456"},"response":{"error":"record not found","success":"false"},"time":"2022-07-25T23:18:23+07:00"}
+{"at":"2022-07-25 23:18:23","ip":"[::1]:40932","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T23:18:23+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 23:18:23","level":"error","msg":"record not found","request":{"sso":false,"username":"123456"},"response":{"error":"record not found","success":"false"},"time":"2022-07-25T23:18:23+07:00"}
+{"at":"2022-07-25 23:18:32","ip":"[::1]:40932","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T23:18:32+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 23:18:32","level":"info","msg":"incoming request","request":{"sso":false,"username":"admin"},"response":{"success":"true"},"time":"2022-07-25T23:18:32+07:00"}
+{"at":"2022-07-25 23:18:44","ip":"[::1]:40932","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T23:18:44+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 23:18:49","ip":"[::1]:40932","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T23:18:49+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 23:18:49","ip":"[::1]:40932","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T23:18:49+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 23:19:21","ip":"[::1]:40932","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T23:19:21+07:00","uri":"/history-productions?limit=10\u0026page=1\u0026sort=id%20desc"}
+{"at":"2022-07-25 23:19:21","level":"info","msg":"incoming request","request":"success to get all data history_productions","response":null,"time":"2022-07-25T23:19:21+07:00"}
+{"at":"2022-07-25 23:19:28","ip":"[::1]:40932","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T23:19:28+07:00","uri":"/history-productions/barchart"}
+{"at":"2022-07-25 23:19:40","ip":"[::1]:40932","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T23:19:40+07:00","uri":"/history-productions/stat"}
+{"at":"2022-07-25 23:36:30","ip":"[::1]:40936","level":"info","method":"POST","msg":"incoming request","time":"2022-07-25T23:36:30+07:00","uri":"/auth/login"}
+{"at":"2022-07-25 23:36:30","level":"info","msg":"incoming request","request":{"sso":false,"username":"admin"},"response":{"success":"true"},"time":"2022-07-25T23:36:30+07:00"}
+{"at":"2022-07-25 23:36:52","ip":"[::1]:40936","level":"info","method":"GET","msg":"incoming request","time":"2022-07-25T23:36:52+07:00","uri":"/history-productions/20"}
+{"at":"2022-07-26 09:11:58","ip":"[::1]:50982","level":"info","method":"GET","msg":"incoming request","time":"2022-07-26T09:11:58+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-26 09:11:58","ip":"[::1]:50982","level":"info","method":"GET","msg":"incoming request","time":"2022-07-26T09:11:58+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-26 09:11:58","ip":"[::1]:50984","level":"info","method":"GET","msg":"incoming request","time":"2022-07-26T09:11:58+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-26 09:11:58","ip":"[::1]:50986","level":"info","method":"GET","msg":"incoming request","time":"2022-07-26T09:11:58+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-26 09:11:58","ip":"[::1]:50984","level":"info","method":"GET","msg":"incoming request","time":"2022-07-26T09:11:58+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-26 09:12:12","ip":"[::1]:50984","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:12:12+07:00","uri":"/auth/login"}
+{"at":"2022-07-26 09:12:12","level":"info","msg":"incoming request","request":{"sso":false,"username":"admin"},"response":{"success":"true"},"time":"2022-07-26T09:12:12+07:00"}
+{"at":"2022-07-26 09:12:38","ip":"[::1]:50984","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:12:38+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:12:38","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:12:38+07:00"}
+{"at":"2022-07-26 09:29:48","ip":"[::1]:50988","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:29:48+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:30:18","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:30:18+07:00"}
+{"at":"2022-07-26 09:30:42","ip":"[::1]:50990","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:30:42+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:36:42","ip":"[::1]:50992","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:36:42+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:37:31","ip":"[::1]:50994","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:37:31+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:37:31","level":"info","msg":"incoming request","request":{"market_demand":900,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:37:31+07:00"}
+{"at":"2022-07-26 09:37:46","ip":"[::1]:50994","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:37:46+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:37:46","level":"info","msg":"incoming request","request":{"market_demand":1800,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:37:46+07:00"}
+{"at":"2022-07-26 09:38:19","ip":"[::1]:50994","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:38:19+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:38:19","level":"info","msg":"incoming request","request":{"market_demand":2100,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:38:19+07:00"}
+{"at":"2022-07-26 09:38:22","ip":"[::1]:50994","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:38:22+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:38:22","level":"info","msg":"incoming request","request":{"market_demand":2100,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:38:22+07:00"}
+{"at":"2022-07-26 09:38:27","ip":"[::1]:50994","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:38:27+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:38:27","level":"info","msg":"incoming request","request":{"market_demand":2200,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:38:27+07:00"}
+{"at":"2022-07-26 09:38:28","ip":"[::1]:50994","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:38:28+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:38:28","level":"info","msg":"incoming request","request":{"market_demand":2200,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:38:28+07:00"}
+{"at":"2022-07-26 09:38:29","ip":"[::1]:50994","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:38:29+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:38:29","level":"info","msg":"incoming request","request":{"market_demand":2200,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:38:29+07:00"}
+{"at":"2022-07-26 09:38:29","ip":"[::1]:50994","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:38:29+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:38:29","level":"info","msg":"incoming request","request":{"market_demand":2200,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:38:29+07:00"}
+{"at":"2022-07-26 09:38:29","ip":"[::1]:50994","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:38:29+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:38:29","level":"info","msg":"incoming request","request":{"market_demand":2200,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:38:29+07:00"}
+{"at":"2022-07-26 09:38:29","ip":"[::1]:50994","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:38:29+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:38:29","level":"info","msg":"incoming request","request":{"market_demand":2200,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:38:29+07:00"}
+{"at":"2022-07-26 09:38:35","ip":"[::1]:50994","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:38:35+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:38:35","level":"info","msg":"incoming request","request":{"market_demand":3200,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:38:35+07:00"}
+{"at":"2022-07-26 09:38:36","ip":"[::1]:50994","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:38:36+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:38:36","level":"info","msg":"incoming request","request":{"market_demand":3200,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:38:36+07:00"}
+{"at":"2022-07-26 09:38:36","ip":"[::1]:50994","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:38:36+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:38:36","level":"info","msg":"incoming request","request":{"market_demand":3200,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:38:36+07:00"}
+{"at":"2022-07-26 09:38:42","ip":"[::1]:50994","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:38:42+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:38:42","level":"info","msg":"incoming request","request":{"market_demand":3200,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:38:42+07:00"}
+{"at":"2022-07-26 09:39:24","ip":"[::1]:50996","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:39:24+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:39:53","level":"info","msg":"incoming request","request":{"market_demand":3200,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:39:53+07:00"}
+{"at":"2022-07-26 09:44:28","ip":"[::1]:51004","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T09:44:28+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 09:44:46","level":"info","msg":"incoming request","request":{"market_demand":1800,"stock":50,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T09:44:46+07:00"}
+{"at":"2022-07-26 10:07:10","ip":"[::1]:51022","level":"info","method":"GET","msg":"incoming request","time":"2022-07-26T10:07:10+07:00","uri":"/swagger/index.html"}
+{"at":"2022-07-26 10:07:10","ip":"[::1]:51022","level":"info","method":"GET","msg":"incoming request","time":"2022-07-26T10:07:10+07:00","uri":"/swagger/swagger-ui-bundle.js"}
+{"at":"2022-07-26 10:07:10","ip":"[::1]:51024","level":"info","method":"GET","msg":"incoming request","time":"2022-07-26T10:07:10+07:00","uri":"/swagger/swagger-ui.css"}
+{"at":"2022-07-26 10:07:10","ip":"[::1]:51026","level":"info","method":"GET","msg":"incoming request","time":"2022-07-26T10:07:10+07:00","uri":"/swagger/swagger-ui-standalone-preset.js"}
+{"at":"2022-07-26 10:07:10","ip":"[::1]:51022","level":"info","method":"GET","msg":"incoming request","time":"2022-07-26T10:07:10+07:00","uri":"/swagger/doc.json"}
+{"at":"2022-07-26 10:07:10","ip":"[::1]:51022","level":"info","method":"GET","msg":"incoming request","time":"2022-07-26T10:07:10+07:00","uri":"/swagger/favicon-32x32.png"}
+{"at":"2022-07-26 10:07:23","ip":"[::1]:51022","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T10:07:23+07:00","uri":"/auth/login"}
+{"at":"2022-07-26 10:07:23","level":"info","msg":"incoming request","request":{"sso":false,"username":"admin"},"response":{"success":"true"},"time":"2022-07-26T10:07:23+07:00"}
+{"at":"2022-07-26 10:07:49","ip":"[::1]:51022","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T10:07:49+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 10:08:22","level":"info","msg":"incoming request","request":{"market_demand":1500,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T10:08:22+07:00"}
+{"at":"2022-07-26 10:08:35","ip":"[::1]:51022","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T10:08:35+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 10:09:43","level":"info","msg":"incoming request","request":{"market_demand":5600,"stock":60,"user_id":2},"response":{"success":"true"},"time":"2022-07-26T10:09:43+07:00"}
+{"at":"2022-07-26 10:09:46","ip":"[::1]:51022","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T10:09:46+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 10:10:20","ip":"[::1]:51030","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T10:10:20+07:00","uri":"/calculate-productions"}
+{"at":"2022-07-26 10:12:01","ip":"[::1]:51030","level":"info","method":"POST","msg":"incoming request","time":"2022-07-26T10:12:01+07:00","uri":"/calculate-productions"}
