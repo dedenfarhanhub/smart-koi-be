@@ -6,6 +6,7 @@ import (
 	"github.com/dedenfarhanhub/smart-koi-be/helper/calculation"
 	"github.com/dedenfarhanhub/smart-koi-be/helper/logging"
 	"github.com/dedenfarhanhub/smart-koi-be/helper/pagination"
+	"sort"
 	"strings"
 	"time"
 )
@@ -53,11 +54,15 @@ func (h HistoryProductionUseCase) Barchart(ctx context.Context) ([]Domain, error
 	req := pagination.Pagination{}
 	req.Page = 1
 	req.Limit = 3
+	req.Sort  = "period_date desc"
 	_, allHistoryProductions, err := h.historyProductionRepository.Fetch(ctx, req, "", "")
 	if err != nil {
 		return []Domain{}, business.ErrInternalServer
 	}
 
+	sort.Slice(allHistoryProductions, func(i, j int) bool {
+		return allHistoryProductions[i].PeriodDate.Before(allHistoryProductions[j].PeriodDate)
+	})
 	return allHistoryProductions, nil
 }
 
